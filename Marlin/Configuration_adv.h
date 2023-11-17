@@ -693,7 +693,7 @@
 #define COOLER_AUTO_FAN_PIN -1
 
 // Disable part cooling fan
-#define FAN_PIN -1
+#define FAN0_PIN -1
 
 
 #define EXTRUDER_AUTO_FAN_TEMPERATURE 50
